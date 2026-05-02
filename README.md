@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Amr Khaled
 
-<!--
-**3mr5aled/3mr5aled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End & WordPress Developer  
+🛒 Elementor | WooCommerce | UI Design
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a WordPress developer specialized in building modern, responsive websites using Elementor and WooCommerce.  
+I focus on clean UI, fast performance, and conversion-focused e-commerce stores.
+
+---
+
+## 🛠 Skills
+
+- WordPress
+- Elementor
+- WooCommerce
+- HTML5
+- CSS3
+- JavaScript (Basic)
+- Responsive Design
+- UI/UX Layouts
+
+---
+
+## 📌 Featured Projects
+
+🛒 E-commerce Store (WooCommerce + Elementor)  
+📰 News & Magazine Website  
+📊 Admin Dashboard UI  
+🎨 Landing Pages (High Conversion Design)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=3mr5aled&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contact
+
+📧 Email: amr5aled2000@outlook.com  
+🌐 GitHub: https://github.com/3mr5aled
