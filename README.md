@@ -34,11 +34,6 @@ I focus on clean UI, fast performance, and conversion-focused e-commerce stores.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=3mr5aled&show_icons=true&theme=dark)
-
----
 
 ## 📫 Contact
 
